@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2018-03-14T18:29:42.772">
+  <info>
+    Q2 started, deployDir=/home/ngonar/WebApp/ISOSFER/deploy
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:43.511">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:44.520">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:45.532">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:46.542">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:47.551">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:48.116">
+  <info>
+    shutting down (hook)
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:48.554">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </trace>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:48.559">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:48.563">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </trace>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:48.567">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:29:48.569">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/00_logger.xml
+  </trace>
+</log>
+</logger>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2018-03-14T18:30:35.633">
+  <info>
+    Q2 started, deployDir=/home/ngonar/WebApp/ISOSFER/deploy
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:36.374">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:37.389">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:38.407">
+  <error>
+    start
+    Can't find bundle for base name org/jpos/q2/buildinfo, locale en_US
+  </error>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:39.141">
+  <info>
+    shutting down (hook)
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:39.410">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </trace>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:39.414">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:39.418">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </trace>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:39.422">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:30:39.425">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/00_logger.xml
+  </trace>
+</log>
+</logger>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2018-03-14T18:31:17.108">
+  <info>
+    Q2 started, deployDir=/home/ngonar/WebApp/ISOSFER/deploy
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:17.837" lifespan="709ms">
+  <version>
+    jPOS 2.1.0 unknown/unknown (2017-11-06 16:57:08 WIB) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:17.851" lifespan="7ms">
+  <info>
+    deploy: /home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:17.864" lifespan="12ms">
+  <info>
+    deploy: /home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </info>
+</log>
+<log realm="SimulatorServer.server" at="2018-03-14T18:31:17.959">
+  <iso-server>
+    listening on port 9999
+  </iso-server>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:24.304">
+  <info>
+    shutting down (hook)
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:25.457">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </trace>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.462">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:25.464">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </info>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.474" lifespan="11ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.475" lifespan="12ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.477" lifespan="15ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.478" lifespan="16ms">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:25.469">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </trace>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.479" lifespan="17ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.481" lifespan="16ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.482" lifespan="17ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.483" lifespan="18ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:25.484" lifespan="20ms">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:25.485" lifespan="4ms">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:25.488">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/00_logger.xml
+  </trace>
+</log>
+</logger>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2018-03-14T18:31:39.792">
+  <info>
+    Q2 started, deployDir=/home/ngonar/WebApp/ISOSFER/deploy
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:40.514" lifespan="691ms">
+  <version>
+    jPOS 2.1.0 unknown/unknown (2017-11-06 16:57:08 WIB) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:40.525" lifespan="6ms">
+  <info>
+    deploy: /home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:40.538" lifespan="11ms">
+  <info>
+    deploy: /home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </info>
+</log>
+<log realm="SimulatorServer.server" at="2018-03-14T18:31:40.606">
+  <iso-server>
+    listening on port 9999
+  </iso-server>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:53.977">
+  <info>
+    shutting down (hook)
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:55.613">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </trace>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.618">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.620" lifespan="1ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.621" lifespan="1ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.622" lifespan="2ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.624" lifespan="5ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.625" lifespan="6ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.626" lifespan="7ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.627" lifespan="8ms">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:55.628" lifespan="9ms">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/52_server_simulator.xml
+  </info>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.630" lifespan="11ms">
+  <queue closed/>
+</log>
+<log realm="SimulatorServer.pool" at="2018-03-14T18:31:55.631" lifespan="13ms">
+  <queue closed/>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:55.632" lifespan="1ms">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </trace>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:55.634">
+  <info>
+    undeployed:/home/ngonar/WebApp/ISOSFER/deploy/01_idpel_sample.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2018-03-14T18:31:55.636">
+  <trace>
+    undeploying:/home/ngonar/WebApp/ISOSFER/deploy/00_logger.xml
+  </trace>
+</log>
+</logger>

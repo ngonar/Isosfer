@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config name="database">
+    <property name="host" value="localhost" />
+    <property name="port" value="5432" />
+    <property name="username" value="postgres" />
+    <property name="password" value="postgres" />
+    <property name="database_name" value="simulator" />
+    <property name="min_conn" value="2" />
+    <property name="max_conn" value="5" />
+</config>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config name="idpel_1a010104102287">
+    
+    <property name="380000_4" value="000010876950" />
+    <property name="380000_8" value="00001050" />
+    <property name="380000_39" value="00" />
+    <property name="380000_44" value="180312135319000175" />
+    <property name="380000_48" value="1a010104102287|000000187950|180312135319000175" />
+    <property name="380000_61" value="TAGIHAN KRIDIT LAMBORGHINI" />
+    <property name="380000_62" value="No.Pelanggan: 1A010104102287|Nama        : IWAN SAPUTRA|Golongan Darah   : X|Periode     : OKT16|Tot.Tagihan :Rp.     10.870.950||BIAYA ADMIN  : Rp.        6.000|TOTAL BAYAR  : Rp.      10.876.950" />
+    <property name="380000_timedelay" value="0" />
+    
+    <property name="180000_39" value="18" />
+    <property name="180000_timedelay" value="0" />
+    
+    <property name="380001_39" value="00" />
+    <property name="380001_55" value="Transaksi Sukses" />
+    <property name="380001_61" value="TAGIHAN KRIDIT LAMBORGHINI" />
+    <property name="380001_62" value="No Pelanggan  : 1A010104102287|Nama          : IWAN SAPUTRA|Golongan Darah      : X|Periode       : OKT16|Denda         :Rp.           0|Total Tagihan :Rp.     10.870.950||BIAYA ADMIN  : Rp.        6.000|TOTAL BAYAR  : Rp.      10.876.950" />
+    <property name="380001_timedelay" value="0" />
+    
+</config>
